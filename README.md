@@ -1,2 +1,4 @@
-# Address book client-server application
-This is the simple study client-server application on Java in OmSU, IMIT.
+# "Server apps" subject in OmSU, IMIT/
+1. sql, JDBC
+2. client-server app (Java, MyBatis, Jersey, JUnit 4)
+3. number-guess game (sockets)
